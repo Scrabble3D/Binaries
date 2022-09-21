@@ -7,8 +7,8 @@ Latest executable for Scrabble3D
 * run Scrabble3D.bat
 
 **macOS**
-* download Scrabble3D_macOS.dmg
-* open and extract the content to some folder
+* download Scrabble3D_macOS.zip
+* extract the content to some folder
 
 **Linux**
 * download Scrabble3D_Linux.zip
@@ -17,6 +17,6 @@ Latest executable for Scrabble3D
 (Requirement: glic 2.34)
 
 **Android**
-* download Scrabble3D_Android.apk
-* run the installer
+* download Scrabble3D_Android.apk on the device
+* accept confirmation
 (Requirement: Android 11 and higher)
