@@ -11,10 +11,8 @@ Latest executable for Scrabble3D
 * extract the content to some folder
 
 **Linux**
-* download Scrabble3D_Linux.zip
-* extract the content to some folder
-* run Scrabble3D.sh
-(Requirement: glic 2.34)
+* download Scrabble3D_Linux.gz (dynamically linked)
+* install the libraries qt6-quick3d and qt6-charts (which pulls some Qt6 dependencies)
 
 **Android**
 * download Scrabble3D_Android.apk on the device
