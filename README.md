@@ -3,7 +3,8 @@ Latest executable for Scrabble3D
 
 **Windows**
 * download Scrabble3D_Windows.exe
-* run the installer
+* trust the downloaded application and run the installer "Scrabble3D_Windows.exe"
+![Windows](https://github.com/Scrabble3D/Binaries/assets/86765599/2d2bf48b-b126-4f98-a2a7-ee13695194c1)
 * start the application with the start menu
 
 **macOS**
