@@ -1,5 +1,5 @@
 # Binaries
-Latest executable for Scrabble3D
+Latest executable for Scrabble3D (open the lost via "Code")
 
 **Windows**
 * download Scrabble3D_Windows.exe
