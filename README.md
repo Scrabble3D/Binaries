@@ -1,5 +1,5 @@
 # Binaries
-Latest executable for Scrabble3D
+Download the latest executable for Scrabble3D from https://scrabble3d.itch.io/scrabble3d
 
 **Windows**
 * download Scrabble3D_Windows.exe
